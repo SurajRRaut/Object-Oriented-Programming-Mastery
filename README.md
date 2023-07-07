@@ -1,9 +1,9 @@
 
-#Aadhaar Card Management Console Application
+# Aadhaar Card Management Console Application
 
 This console application, developed in Java, provides a simulation of Aadhaar card management operations, inspired by the functionalities offered by the UIDAI website. Users can interact with the application to create new Aadhaar cards or update existing ones.
 
-##Features
+## Features
 
 - Aadhaar Card Creation: Users can input personal information such as name, date of birth, address, and contact details to create a new Aadhaar card. The application validates the data to ensure accuracy and adheres to UIDAI's validation rules.
 
@@ -11,7 +11,7 @@ This console application, developed in Java, provides a simulation of Aadhaar ca
 
 - **Data Storage and Retrieval:** The application utilizes secure data storage techniques to maintain the privacy and security of Aadhaar cardholder information. Data is stored in a structured format and can be retrieved for future reference or further updates.
 
-##Object-Oriented Programming Concepts
+## Object-Oriented Programming Concepts
 
 This project showcases the effective utilization of various object-oriented programming concepts:
 
@@ -21,7 +21,7 @@ This project showcases the effective utilization of various object-oriented prog
 
 - Upcasting and Downcasting: Upcasting is used to treat derived classes as instances of their base class, enabling polymorphism and flexibility in processing different types of Aadhaar card operations. Downcasting is employed to access specialized features of derived classes when necessary.
 
-##Usage
+## Usage
 
 1. Compile the Java source files in the project using a Java compiler.
 
@@ -30,10 +30,10 @@ This project showcases the effective utilization of various object-oriented prog
 3. Follow the on-screen prompts and instructions to navigate through the application and perform Aadhaar card management operations.
 
 
-##Technologies Used
+## Technologies Used
   - Core Java
 
-##Contributions
+## Contributions
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
