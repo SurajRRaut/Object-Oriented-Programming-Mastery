@@ -1,4 +1,3 @@
-# Object-Oriented-Programming-Mastery-Project
 
 # Aadhaar Card Management Console Application
 
@@ -30,6 +29,9 @@ This project showcases the effective utilization of various object-oriented prog
 
 3. Follow the on-screen prompts and instructions to navigate through the application and perform Aadhaar card management operations.
 
+
+# Technologies Used
+  - Core Java
 # Contributions
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
